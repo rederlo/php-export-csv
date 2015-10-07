@@ -1,0 +1,14 @@
+{
+    "name": "excel/csv",
+    "description": "Exemplo para exportar o banco de dados em csv",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Ederlo Rodrigo de Olivera",
+            "email": "ederlo.contato@gmail.com"
+        }
+    ],
+    "require" : {
+        "league/csv": "~6.2"
+    }
+}
